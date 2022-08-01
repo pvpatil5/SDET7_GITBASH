@@ -1,1 +1,2 @@
 THIS IS DOC1
+this is new line added
